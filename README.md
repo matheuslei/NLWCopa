@@ -33,7 +33,7 @@ Utilize o **yarn** ou o **npm install** para instalar as dependências do projet
 Em seguida, inicie o projeto.
 
 ```cl
- git clone https://github.com/rodrigocelvo/copa.git
+ git clone https://github.com/matheuslei/copa.git
  cd copa
  yarn ou npm install
 ```
