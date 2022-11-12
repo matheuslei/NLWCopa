@@ -1,31 +1,29 @@
-<div align="center">
-   <img alt="NLW Copa" src=".github/logo.svg" width="50%"/>
-</div>
-
-![cover](.github/cover.png?style=flat)
-
 ## 💻 Projeto
+Projeto realizado durante os dias 31/10 à 04/11 na semana NLW Copa realizado pela Rocketseat 🚀
 
-De palpites no jogos da copa, mostre para seus amigos que de futebol você entende.
+Bolão para copa 2022 ⚽
 
-## 🛠️ Features
+![image](https://user-images.githubusercontent.com/65515537/201481765-e33de3f0-25b7-4d05-9496-f51786dbca43.png)
 
-- [ ] Criar Bolão
-- [ ] Dar Palpite
-- [ ] E mais...
 
-## ✨ Tecnologias
+## Features
 
-- [ ] React
-- [ ] React Native
-- [ ] Typescript
-- [ ] Tailwild
-- [ ] Expo
-- [ ] Prisma
-- [ ] Native Base
-- [ ] Fastify
+• Criar Bolão
+• Dar Palpite
+• E mais...
 
-## 🔖 Layout
+## Tecnologias
+
+• React
+• React Native
+• Typescript
+• Tailwild
+• Expo
+• Prisma
+• Native Base
+• Fastify
+
+## Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1169028343875283461). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
@@ -52,20 +50,7 @@ Mobile:
   É necessário ter um token client id criado no console da google.
 ```
 
-## 🤔 Como contribuir
-
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
-
-## 🧑‍ Instrutores
+## Instrutores
 
 [Diego Fernandes](https://github.com/diego3g) <br />
 [Rodrigo Gonçalves](https://github.com/rodrigorgtic)
-
-<div align="center">
- Feito com 💜  by Rocketseat/rodrigocelvo
-</div>
